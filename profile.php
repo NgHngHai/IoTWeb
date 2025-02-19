@@ -103,7 +103,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <div class="row mb-3">
                             <div class="col-md-6">
                                 <label class="form-label">Github</label>
-                                <a href="">a</a>
+                                <a href="https://github.com/NgHngHai/IoTWeb">github.com/NgHngHai/IoTWeb</a>
                             </div>
                         </div>
                         <button type="submit" class="btn btn-primary w-100">Save</button>
